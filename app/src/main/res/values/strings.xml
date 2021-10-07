@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataDiNascita</string>
+    <string name="inserisci_l_anno_di_nascita">Inserisci l\'anno di nascita</string>
 </resources>
